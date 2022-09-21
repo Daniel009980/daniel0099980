@@ -4,3 +4,10 @@
 [2022-09-21 00:24:02.418] [remoteagent] [info] [127.0.0.1][a00d0790][ExtensionHostConnection] <169> Launched Extension Host Process.
 [2022-09-21 00:26:03.786] [remoteagent] [info] [127.0.0.1][a00d0790][ExtensionHostConnection] <169> [0mGET /favicon.ico [33m404[0m 1.887 ms - 150[0m
 
+[2022-09-21 01:38:30.044] [remoteagent] [info] Getting Manifest... github.vscode-pull-request-github
+[2022-09-21 01:38:30.397] [remoteagent] [info] Installing extension: github.vscode-pull-request-github
+[2022-09-21 01:38:31.833] [remoteagent] [info] Downloaded extension: github.vscode-pull-request-github /home/daniel009980/.vscode-server/data/CachedExtensionVSIXs/github.vscode-pull-request-github-0.50.0
+[2022-09-21 01:38:32.018] [remoteagent] [info] Extracted extension to /home/daniel009980/.vscode-server/extensions/.401024c0-4595-452e-95ee-252b8ef251cf: github.vscode-pull-request-github
+[2022-09-21 01:38:32.034] [remoteagent] [info] Renamed to /home/daniel009980/.vscode-server/extensions/github.vscode-pull-request-github-0.50.0
+[2022-09-21 01:38:32.037] [remoteagent] [info] Extracting completed. github.vscode-pull-request-github
+[2022-09-21 01:38:32.038] [remoteagent] [info] Extension installed successfully: github.vscode-pull-request-github
