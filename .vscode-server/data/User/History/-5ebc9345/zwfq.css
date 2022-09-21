@@ -1,0 +1,4 @@
+h2 + p{                             /* este combinador + se llama hermosa cercano o adyacente */
+    color: blueviolet;      /* se coloca color violeta a todas las etiquetas p que son cercana a h2 */
+}
+

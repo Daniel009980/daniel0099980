@@ -1,0 +1,31 @@
+.main-nav{
+    font-size: 30px;
+    margin-top: 10px;   /* el margin es el tamaño de la caja queu esta utilizando la lista de ul y lo podemos modificar con ese comando  */
+    list-style: none;
+    padding-left: 0px;    /*  el paddin es el tamaño que esta ocupando el texto dentro de la caja de la lista y cuando lo quitamos estamos quitando el espacio que estaria ocupando las viñetas por ejemplo */
+    background-color: #13a4a4;
+
+}
+
+.main-nav__item{
+    display: inline-block;
+}
+
+.main-nav__item a {                 /* con la nos referimos a todos los elementos con etiqueta a que se encuentran en esa clase */ 
+color: bisque;
+padding: 5px;
+border-radius: 30px;
+text-decoration: none;
+background-color: black;
+}
+
+/* pseudo clases */
+
+.main-nav__item a:hover {
+    color: blue;
+
+}
+
+.main-nav__item a:active {
+    color: red;
+}

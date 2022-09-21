@@ -1,0 +1,17 @@
+p {
+    color:blueviolet;
+    font-size: 40px;
+}
+
+/* class es otra forma de mandar a llamar un elemento(s) que tienen el nombre de la clase */
+
+.parrafo {
+    color: brown;
+}
+
+/* ID es otra forma de mandar a llamar esta vez con otro simbolo (#) */
+
+#texto{
+    color: blue;
+    font-size: 60px;
+}

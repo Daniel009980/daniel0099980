@@ -1,0 +1,25 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+}
+
+div{
+    background-color: red;
+    width: 150px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+section{
+    background-color: grey;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+}

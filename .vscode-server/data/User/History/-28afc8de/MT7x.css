@@ -1,0 +1,11 @@
+h1{
+    font-family: serif;
+}
+
+#page-title{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{                                 /* este title esta en las etiquetas de h1 y com oaqui le damos un estilo a h1 de tipo de fuente que va a usar en esta parte le estamos dando el tamaño asi que ghay que tener cuidadi cuando trabajemos con varias etiquetas  */
+    font-size: 18px;
+}

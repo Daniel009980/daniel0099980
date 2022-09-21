@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+div{
+    border-style: inset;
+    text-align: center;
+    top: 20px;
+    position: relative;
+    border-radius: 30px;
+    padding: 30px;
+    background-color: red;
+    width: 30%;
+    min-width: 200px;
+    min-height: 80px;
+    margin: 0 auto;
+}
+
+section{
+    border-style: groove;
+    text-align: center;
+    padding: 30px;
+    border-radius: 30px;
+    width: 80%;
+    min-width: 420px;
+    max-width: 600px;               /* esto es para delimitar el tamaño del ancho de la seccionq ue estamos mandando a llamar */
+    min-height: 500px;                  /* aqui le estamo diciendoa la seccion que su tamaño minimo sera de 500 pixeles pero si tiene mas contenido no deja de crecer hasta que el contenido termine de crecer y asi evitamos el overflow de contenido */
+    margin: 0 auto;                         /* aqui significa que le agregue 0 de arriba y abajo pero que de los lados lo ajuste automaticamente por eso queda cemtrado */
+    background-color: grey;
+}

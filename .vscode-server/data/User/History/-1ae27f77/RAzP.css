@@ -1,0 +1,3 @@
+.text-container{
+    font-size: 1.5em;           /* el em toma el tamaño de texto del padre directo de la clase en este caso de main  */
+}

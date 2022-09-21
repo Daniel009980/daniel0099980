@@ -1,0 +1,7 @@
+html{
+    font-size: 62.5%;
+}
+
+p{
+    font-size: 1.6rem;        /* en rem tiene como referencia al estulo que tenga la etiqueta root que en este caso html por loq ue siempre un rem es igual a 16px */
+}

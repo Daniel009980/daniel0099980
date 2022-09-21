@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Especificidad</title>
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <header class="page-header">
+        <h1 id="page-title" class="title">Empresa</h1>  <!-- este id que aparece en la etique solo se puede usar una vez con ese nombre porque los ids son unicos y especificos a diferencia de las class que son mas genericas -->
+        <nav>
+            <ul id="main-nav" class="nav">
+                <li><a href="">Home</a></li>
+                <li><a href="">Cursos</a></li>
+                <li><a href="">Instructores</a></li>
+                <li><a href="" style="background-color: brown;" class="blog">Blog</a></li>   los estilos enbebidos con mas importantes que las clases por lo que si ponemos un estilo embebido como etiqueta no podremos modificarlo desde la hoja de estilo por lo que es de mala practica usar estilos embebidos
+            </ul>
+        </nav>
+    </header>
+</body>
+</html>

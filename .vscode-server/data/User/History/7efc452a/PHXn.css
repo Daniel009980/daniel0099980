@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+div{
+    background-color: red;
+    width: 150px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+section{
+    background-color: grey;
+    width: 220px;
+    height: 200px;
+    margin: 0 auto;
+}

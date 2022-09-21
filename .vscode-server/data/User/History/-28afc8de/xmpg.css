@@ -1,0 +1,48 @@
+
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    color:purple ;
+    font-family: serif;
+    margin-bottom: 10px;
+}
+
+/* #page-title{
+    font-family: Arial, Helvetica, sans-serif;      podemos retirar este id ya que contiene una clase entonces no necesitamos tener este id y en la clase podemos poner el estulo de fuente que queramos 
+} */
+
+.title{                                 /* este title esta en las etiquetas de h1 y com oaqui le damos un estilo a h1 de tipo de fuente que va a usar en esta parte le estamos dando el tamaño asi que ghay que tener cuidadi cuando trabajemos con varias etiquetas  */
+    font-size: 18px;
+    font-family: monospace;
+}
+/* esta es la especificidad de cascada como se puede ver 
+h1 ya tiene el tipo de fuente que se esta itulizando por lo  que en title se va 
+a ignorar la fuente que le queremos poner porque h1 esta arriba de title */
+
+#main-nav{
+    margin-top: 10px;
+    list-style-type: none;
+    padding-left: 0px;
+}
+
+#main-nav li{
+    display: inline-block;
+}
+
+#main-nav a{
+    color: azure;
+    background-color: aquamarine;
+    padding: 5px;
+    border-radius: 2px;
+    text-decoration: none;
+}
+
+
+/* #main-nav .blog{
+    background-color: blue!important;   se puede usar la etiqueta !important para darle la mayor prioridad al estilo pero no es buena practica usar el important porque nos puede causar problemas posteriomente
+}
+
+ */

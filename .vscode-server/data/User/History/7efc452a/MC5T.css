@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+div{
+    background-color: red;
+    width: 150px;
+    height: 100px;
+    margin: 0 auto;
+}
+
+section{
+    background-color: grey;
+    width: 80%;
+    min-width: 320px;
+    max-width: 500px;               /* esto es para delimitar el tamaño del ancho de la seccionq ue estamos mandando a llamar */
+    min-height: 500px;
+    margin: 0 auto;
+}

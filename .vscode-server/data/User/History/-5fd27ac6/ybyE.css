@@ -1,0 +1,11 @@
+/* combinador hijo directo */
+
+div > p {                   /* se lee: el padre div que sea mayor a un etiqueta p. o que la etiquepa parrafo que sea hija directa de la etiqueta padre div se le aplique el color*/
+color: brown;
+}
+
+/* combinacion de descendiente (que es el mas habitual) */
+
+div p {
+    color: blue;
+}

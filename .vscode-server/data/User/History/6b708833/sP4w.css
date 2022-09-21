@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+    background-color: aqua;
+}
+
+section{
+    width: 80%;
+    min-width: 320px;
+    max-width: 500px;               /* esto es para delimitar el tamaño del ancho de la seccionq ue estamos mandando a llamar */
+    min-height: 500px;
+    margin: 0 auto;                         /* aqui significa que le agregue 0 de arriba y abajo pero que de los lados lo ajuste automaticamente por eso queda cemtrado */
+    background-color: blueviolet;
+}

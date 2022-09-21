@@ -1,0 +1,7 @@
+body{
+    font-size: 20px;
+}
+
+.text-container{
+    font-size: 1em;           /* el em toma el tamaño de texto del padre directo de la clase en este caso de main como main tampoco tiene un tamaño de letra esta tomando el de html que es 16 entonces se interpreta como 1.5*16=24 */
+}
