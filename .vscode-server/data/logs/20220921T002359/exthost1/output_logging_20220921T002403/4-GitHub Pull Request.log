@@ -72,3 +72,18 @@
 [Info] Review> no matching pull request metadata found on GitHub for current branch main
 [Info] PullRequestTree> Removing PR #undefined from tree
 [Info] GitHubRepository> The remote branch for this PR was already deleted.
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] Found GitHub remote
+[Info] Review> no matching pull request metadata found for current branch main
+[Info] Review> no matching pull request metadata found on GitHub for current branch main
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] CreatePullRequestViewProvider> Initializing "create" view: {"availableBaseRemotes":[{"owner":"Daniel009980","repositoryName":"daniel0099980"}],"availableCompareRemotes":[{"owner":"Daniel009980","repositoryName":"daniel0099980"}],"defaultBaseRemote":{"owner":"Daniel009980","repositoryName":"daniel0099980"},"defaultBaseBranch":"main","defaultCompareRemote":{"owner":"Daniel009980","repositoryName":"daniel0099980"},"defaultCompareBranch":"main","branchesForRemote":["main"],"branchesForCompare":["main"],"defaultTitle":"Main","defaultDescription":"","isDraft":false,"defaultMergeMethod":"merge","allowAutoMerge":false,"mergeMethodsAvailability":{"merge":true,"squash":true,"rebase":true},"createError":""}
+[Info] GithubRepository> Unable to create PR: Error: GraphQL error: No commits between main and main
+[Info] Review> Queuing additional validate state
+[Info] Review> Validating state...
+[Info] Found GitHub remote
+[Info] Review> no matching pull request metadata found for current branch main
+[Info] Review> no matching pull request metadata found on GitHub for current branch main
+[Info] PullRequestTree> Removing PR #undefined from tree
+[Info] GithubRepository> Unable to create PR: Error: GraphQL error: No commits between main and main
