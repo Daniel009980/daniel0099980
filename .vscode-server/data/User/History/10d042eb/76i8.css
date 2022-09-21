@@ -26,22 +26,20 @@
 .nav {
     list-style: none;
     font-size: 20px;
-  
-}
-.seccion{
-    display: flex;
-}
-.cosas{
-    width: 20%;
-    justify-content: space-between;
-    
+    /* text-align: right; */
 }
 
-
+.cosas {
+    display: inline-flex;
+    width: 30%;
+}
 .ad{
+    width: 30%;
     background-color: brown;
     padding-top: 50px;
     height: 850px;
+    display: flex;
+    flex-direction: column;
     list-style: none;
 }
 

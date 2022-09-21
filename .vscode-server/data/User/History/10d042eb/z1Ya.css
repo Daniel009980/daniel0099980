@@ -37,7 +37,9 @@
     
 }
 
-
+.paraf{
+    display: flex;    
+}
 .ad{
     background-color: brown;
     padding-top: 50px;

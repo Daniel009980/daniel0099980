@@ -26,7 +26,7 @@
 .nav {
     list-style: none;
     font-size: 20px;
-  
+    /* text-align: right; */
 }
 .seccion{
     display: flex;
@@ -37,17 +37,21 @@
     
 }
 
-
+.paraf{
+    display: flex;    
+}
 .ad{
     background-color: brown;
     padding-top: 50px;
     height: 850px;
+  /*   display: flex;
+    flex-direction: column; */
     list-style: none;
 }
 
 .ad li{
     background-color: aqua;
-    margin: 20px;
+/*     margin: 20px;
     margin-top: 80px;
-    height: 90px;
+    height: 90px; */
 }
