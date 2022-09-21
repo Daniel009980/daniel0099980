@@ -11,3 +11,38 @@
 [2022-09-21 01:38:32.034] [remoteagent] [info] Renamed to /home/daniel009980/.vscode-server/extensions/github.vscode-pull-request-github-0.50.0
 [2022-09-21 01:38:32.037] [remoteagent] [info] Extracting completed. github.vscode-pull-request-github
 [2022-09-21 01:38:32.038] [remoteagent] [info] Extension installed successfully: github.vscode-pull-request-github
+[2022-09-21 01:59:28.864] [remoteagent] [info] Getting Manifest... psykosoldi3r.vscode-git-flow
+[2022-09-21 01:59:29.168] [remoteagent] [info] Installing extension: psykosoldi3r.vscode-git-flow
+[2022-09-21 01:59:30.439] [remoteagent] [info] Downloaded extension: psykosoldi3r.vscode-git-flow /home/daniel009980/.vscode-server/data/CachedExtensionVSIXs/psykosoldi3r.vscode-git-flow-0.5.1
+[2022-09-21 01:59:30.508] [remoteagent] [info] Extracted extension to /home/daniel009980/.vscode-server/extensions/.cc30612e-6829-4d94-8b1b-a043fc4509c8: psykosoldi3r.vscode-git-flow
+[2022-09-21 01:59:30.514] [remoteagent] [info] Renamed to /home/daniel009980/.vscode-server/extensions/psykosoldi3r.vscode-git-flow-0.5.1
+[2022-09-21 01:59:30.518] [remoteagent] [info] Extracting completed. psykosoldi3r.vscode-git-flow
+[2022-09-21 01:59:30.519] [remoteagent] [info] Extension installed successfully: psykosoldi3r.vscode-git-flow
+[2022-09-21 01:59:37.105] [remoteagent] [info] Getting Manifest... mhutchie.git-graph
+[2022-09-21 01:59:37.317] [remoteagent] [info] Installing extension: mhutchie.git-graph
+[2022-09-21 01:59:38.542] [remoteagent] [info] Downloaded extension: mhutchie.git-graph /home/daniel009980/.vscode-server/data/CachedExtensionVSIXs/mhutchie.git-graph-1.30.0
+[2022-09-21 01:59:38.697] [remoteagent] [info] Extracted extension to /home/daniel009980/.vscode-server/extensions/.f75ed298-f433-4130-8f57-0555a27891fd: mhutchie.git-graph
+[2022-09-21 01:59:38.707] [remoteagent] [info] Renamed to /home/daniel009980/.vscode-server/extensions/mhutchie.git-graph-1.30.0
+[2022-09-21 01:59:38.711] [remoteagent] [info] Extracting completed. mhutchie.git-graph
+[2022-09-21 01:59:38.712] [remoteagent] [info] Extension installed successfully: mhutchie.git-graph
+[2022-09-21 01:59:47.383] [remoteagent] [info] Getting Manifest... donjayamanne.githistory
+[2022-09-21 01:59:47.660] [remoteagent] [info] Installing extension: donjayamanne.githistory
+[2022-09-21 01:59:48.892] [remoteagent] [info] Downloaded extension: donjayamanne.githistory /home/daniel009980/.vscode-server/data/CachedExtensionVSIXs/donjayamanne.githistory-0.6.19
+[2022-09-21 01:59:49.032] [remoteagent] [info] Extracted extension to /home/daniel009980/.vscode-server/extensions/.f6851357-4bb7-43d4-9294-3a285e363877: donjayamanne.githistory
+[2022-09-21 01:59:49.038] [remoteagent] [info] Renamed to /home/daniel009980/.vscode-server/extensions/donjayamanne.githistory-0.6.19
+[2022-09-21 01:59:49.042] [remoteagent] [info] Extracting completed. donjayamanne.githistory
+[2022-09-21 01:59:49.043] [remoteagent] [info] Extension installed successfully: donjayamanne.githistory
+[2022-09-21 02:00:11.472] [remoteagent] [info] Getting Manifest... ardisaurus.gitflow-actions-sidebar
+[2022-09-21 02:00:11.759] [remoteagent] [info] Installing extension: ardisaurus.gitflow-actions-sidebar
+[2022-09-21 02:00:12.839] [remoteagent] [info] Downloaded extension: ardisaurus.gitflow-actions-sidebar /home/daniel009980/.vscode-server/data/CachedExtensionVSIXs/ardisaurus.gitflow-actions-sidebar-0.5.2
+[2022-09-21 02:00:12.986] [remoteagent] [info] Extracted extension to /home/daniel009980/.vscode-server/extensions/.d032d6f3-c2c6-47db-a9f0-fa794d3217f3: ardisaurus.gitflow-actions-sidebar
+[2022-09-21 02:00:12.991] [remoteagent] [info] Renamed to /home/daniel009980/.vscode-server/extensions/ardisaurus.gitflow-actions-sidebar-0.5.2
+[2022-09-21 02:00:12.996] [remoteagent] [info] Extracting completed. ardisaurus.gitflow-actions-sidebar
+[2022-09-21 02:00:12.997] [remoteagent] [info] Extension installed successfully: ardisaurus.gitflow-actions-sidebar
+[2022-09-21 02:00:27.705] [remoteagent] [info] Getting Manifest... eamodio.gitlens
+[2022-09-21 02:00:28.197] [remoteagent] [info] Installing extension: eamodio.gitlens
+[2022-09-21 02:00:30.942] [remoteagent] [info] Downloaded extension: eamodio.gitlens /home/daniel009980/.vscode-server/data/CachedExtensionVSIXs/eamodio.gitlens-12.2.2
+[2022-09-21 02:00:31.799] [remoteagent] [info] Extracted extension to /home/daniel009980/.vscode-server/extensions/.f74bd984-3a6a-4031-89a0-d894aaf7e2de: eamodio.gitlens
+[2022-09-21 02:00:31.819] [remoteagent] [info] Renamed to /home/daniel009980/.vscode-server/extensions/eamodio.gitlens-12.2.2
+[2022-09-21 02:00:31.826] [remoteagent] [info] Extracting completed. eamodio.gitlens
+[2022-09-21 02:00:31.827] [remoteagent] [info] Extension installed successfully: eamodio.gitlens
