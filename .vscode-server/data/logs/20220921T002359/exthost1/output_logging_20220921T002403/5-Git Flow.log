@@ -5,3 +5,31 @@ git config gitflow.prefix.release
 git config gitflow.prefix.hotfix
 git config gitflow.prefix.support
 git config gitflow.prefix.versiontag
+git branch
+* main
+
+git config gitflow.branch.master
+git config gitflow.branch.develop
+git config gitflow.prefix.feature
+git config gitflow.prefix.release
+git config gitflow.prefix.hotfix
+git config gitflow.prefix.support
+git config gitflow.prefix.versiontag
+git branch --all
+* main
+  remotes/origin/main
+
+git branch
+* main
+
+git config gitflow.branch.master
+git config gitflow.branch.develop
+git config gitflow.prefix.feature
+git config gitflow.prefix.release
+git config gitflow.prefix.hotfix
+git config gitflow.prefix.support
+git config gitflow.prefix.versiontag
+git branch --all
+* main
+  remotes/origin/main
+
