@@ -16,3 +16,4 @@
 [2022-09-21 00:24:05.302] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
 [2022-09-21 00:25:58.944] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features, startup: false, activationEvent: 'onLanguage:html'
 [2022-09-21 01:17:50.639] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
+[2022-09-21 01:33:53.123] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 10000
